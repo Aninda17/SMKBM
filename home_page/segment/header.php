@@ -35,7 +35,7 @@
 	  </nav>
       <!-- End Navbar --> 
 		<section class="hero-large hero">
-			<div id="demo" class="carousel slide" data-ride="carousel">
+			<div id="demo" class="carousel slide" data-ride="carousel" >
 			  <ul class="carousel-indicators">
 				<li data-target="#demo" data-slide-to="0" class="active"></li>
 				<li data-target="#demo" data-slide-to="1"></li>
@@ -43,9 +43,9 @@
 			  </ul>
 			  <div class="carousel-inner">
 				<div class="carousel-item active">
-				  <img src="img/smk/c1.jpg" alt="smk" width="1100" height="500">
+				  <img src="img/smk/c1.jpg" alt="smk" width="1100" height="500" style="filter:brightness(50%);">
 				  <div class="container">
-				   <div class="carousel-caption">
+				   <div class=" align-content-bottom">
 					<h2>Teknik Komputer Dan Jaringan</h2>
 					<p>SMKBM Pakisaji</p>
 				  </div> 
