@@ -1,9 +1,9 @@
 <?php 
 
 session_start();
-if (!isset($_SESSION['login'])) {
+if(!isset($_SESSION['login'])) {
   
-
+;
 
  ?>
 
@@ -165,8 +165,9 @@ if (!isset($_SESSION['login'])) {
 
 </body>
 </html>
-<?php }
-else{
+<?php
+
+ }else{
  header("Location: ../panel_admin");
 
 }
