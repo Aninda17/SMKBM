@@ -12,8 +12,8 @@ $row = mysqli_fetch_assoc($sql);
 // 	$userDb = $key["user"];
 // 	$passDb = $key["password"];
 
-if ($row['nama_guru'] == $user && $row['niy'] == $pass) {
-	$_session['login'] = true;
+if ($row['nama_guru'] === $user && $row['niy'] === $pass) {
+	$_SESSION['login'] = true;
 	header("Location: ../panel_admin");
 }else {
 	header("Location: ../login");
