@@ -1,7 +1,7 @@
 <!-- ======= hero Section ======= -->
 <section id="hero">
     <div class="hero-container">
-        <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+        <div id="heroCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="3500">
 
             <ol id="hero-carousel-indicators" class="carousel-indicators"></ol>
 
