@@ -1,8 +1,11 @@
+<header id="header" class="fixed-top d-flex align-items-center header-transparent">
+    <div class="container-fluid">
+
         <div class="row justify-content-center align-items-center">
             <div class="col-xl-11 d-flex align-items-center justify-content-between">
                 <!-- <h1 class="logo"><a href="index.html">BizPage</a></h1> -->
                 <!-- Uncomment below if you prefer to use an image logo -->
-                <a href="index.php" class="logo" style="border-left-color: #18d26e00"><img src="../../img/smk/logo.png"
+                <a href="index.php" class="logo" style="border-left-color: #18d26e00"><img src="img/smk/logo.png"
                         alt="logo" class="img-fluid"></a>
 
                 <nav id="navbar" class="navbar">
@@ -37,3 +40,6 @@
                 </nav><!-- .navbar -->
             </div>
         </div>
+
+    </div>
+</header>
