@@ -10,9 +10,11 @@ $pass = $_POST["password"];//koneksi dg login sbg pw
 if (empty($user)) {
 	$_SESSION['info'] = 'Username dan Password tidak boleh kosong';
 	header('Location: ../login');
+	exit;
 }elseif (empty($pass)) {
 	$_SESSION['info'] = 'Username dan Password tidak boleh kosong';
 	header('Location: ../login');
+	exit;
 }else{
 
 
