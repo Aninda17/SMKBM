@@ -8,10 +8,10 @@ $pass = $_POST["password"];//koneksi dg login sbg pw
 
 
 if (empty($user)) {
-	$_SESSION['info'] = 'Username tidak boleh kosong';
+	$_SESSION['info'] = 'Username dan Password tidak boleh kosong';
 	header('Location: ../login');
 }elseif (empty($pass)) {
-	$_SESSION['info'] = 'Username tidak boleh kosong';
+	$_SESSION['info'] = 'Username dan Password tidak boleh kosong';
 	header('Location: ../login');
 }else{
 

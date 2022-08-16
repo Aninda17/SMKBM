@@ -119,14 +119,14 @@ if(!isset($_SESSION['login'])) {
 
                       <label for="user" class="form-label">Username</label>
                       <div class="input-group has-validation"> 
-                      <input type="text" name="user" class="form-control" id="user" required>                  
+                      <input type="text" name="user" class="form-control" id="user">                  
                       </div>
                     </div>
 
 
                     <div class="col-12">
                       <label for="password" class="form-label">Password</label>
-                      <input type="password" name="password" class="form-control" id="password" required>
+                      <input type="password" name="password" class="form-control" id="password">
                     </div>
 
                     
