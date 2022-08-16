@@ -16,7 +16,7 @@
 
             <div class="row about-cols">
 
-                <div class="col-md-4" data-aos="fade-up" data-aos-delay="100" style="margin-top: -500px; z-index: 99;">
+                <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="about-col">
                         <div class="img">
                             <img src="home/assets/img/about-mission.jpg" alt="" class="img-fluid">

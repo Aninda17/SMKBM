@@ -3,32 +3,32 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-3 col-md-6 footer-info">
-                    <h3>BizPage</h3>
-                    <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita
-                        valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet
-                        proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+                <div class="col-lg-4 col-md-6 footer-info">
+                    <img src="img/smk/logo.png">
+                    <p>SMK BUDI MULIA PAKISAJI berdiri sejak tahun 2003 adalah salah satu lembaga dibawah naungan Yayasan Pendidikan Islam dan Kesejahteraan Ummat (YPTIKU) "BUDI MULIA"
+                    </p>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
-                    <h4>Useful Links</h4>
+                <div class="col-lg-4 col-md-6 footer-links">
+                    <h4>Direktori</h4>
                     <ul>
-                        <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-                        <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-                        <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-                        <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-                        <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a href="#">ELEARNING ATAU CBT</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a href="#">BM-NET</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a href="#">BM-MART</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a href="#">BM-PRODUCTION</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a href="#">BM-VICTORY</a></li>
                     </ul>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-contact">
-                    <h4>Contact Us</h4>
+                <div class="col-lg-4 col-md-6 footer-contact">
+                    <h4>Kontak Kami</h4>
                     <p>
-                        A108 Adam Street <br>
-                        New York, NY 535022<br>
-                        United States <br>
-                        <strong>Phone:</strong> +1 5589 55488 55<br>
-                        <strong>Email:</strong> info@example.com<br>
+                        Jl. Anjasmoro No.108 <br>
+                        Bendo, Karangpandan <br>
+                        Kec. Pakisaji, Kabupaten Malang <br>
+                        Jawa Timur 65162 <br>
+                        <strong>Phone:</strong> +6281654997050<br>
+                        <strong>Email:</strong> ernimauluddyiyah@gmail.com<br>
                     </p>
 
                     <div class="social-links">
@@ -41,23 +41,13 @@
 
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-newsletter">
-                    <h4>Our Newsletter</h4>
-                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam
-                        illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase
-                        seza.</p>
-                    <form action="" method="post">
-                        <input type="email" name="email"><input type="submit" value="Subscribe">
-                    </form>
-                </div>
-
             </div>
         </div>
     </div>
 
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong>BizPage</strong>. All Rights Reserved
+            Copyright &copy; 2022 | All rights reserved.
         </div>
         <div class="credits">
             <!--
@@ -66,7 +56,7 @@
         Licensing information: https://bootstrapmade.com/license/
         Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=BizPage
       -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            Designed by <a href="https://smkbudimuliapakisaji.sch.id"><strong>Team SMK Budi Mulia Pakisaji</strong>.</a>
         </div>
     </div>
 </footer>
