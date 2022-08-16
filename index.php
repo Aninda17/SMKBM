@@ -18,6 +18,7 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700"
         rel="stylesheet">
 
+
     <!-- Vendor CSS Files -->
     <link href="home/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
     <link href="home/assets/vendor/aos/aos.css" rel="stylesheet">
@@ -28,6 +29,7 @@
 
     <!-- Template Main CSS File -->
     <link href="home/assets/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="home/assets/css/bootstrap.css">
 
     <!-- =======================================================
   * Template Name: BizPage - v5.9.1
@@ -59,6 +61,9 @@
             class="bi bi-arrow-up-short"></i></a>
     <!-- Uncomment below i you want to use a preloader -->
     <!-- <div id="preloader"></div> -->
+    <div id="preloader"></div>
+
+
 
     <!-- Vendor JS Files -->
     <script src="home/assets/vendor/purecounter/purecounter_vanilla.js"></script>
@@ -72,6 +77,7 @@
 
     <!-- Template Main JS File -->
     <script src="home/assets/js/main.js"></script>
+    <script src="home/assets/js/bootstrap.js"></script>
 
 
 </body>
