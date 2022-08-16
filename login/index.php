@@ -98,14 +98,28 @@ if(!isset($_SESSION['login'])) {
                     <p class="text-center small">Login Admin Website</p>
                   </div>
 
+                   <?php   
+                  @session_start();
+                  if (isset ($_SESSION['info']))
+                    {
+                        ?>
+ <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                <i class="bi bi-exclamation-octagon me-1"></i>
+                <?php   echo $_SESSION['info']; ?>
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+              </div>
+
+                        <?php   
+                    }unset($_SESSION['info']);
+                 ?>
+
                   <form  class="row g-3 needs-validation" action="../sistem/validasi.php" method="post" novalidate>
 
                     <div class="col-12">
 
                       <label for="user" class="form-label">Username</label>
                       <div class="input-group has-validation"> 
-                      <input type="text" name="user" class="form-control" id="user" required>
-                      <div class="invalid-feedback">Please enter your username!</div>
+                      <input type="text" name="user" class="form-control" id="user" required>                  
                       </div>
                     </div>
 
@@ -113,7 +127,6 @@ if(!isset($_SESSION['login'])) {
                     <div class="col-12">
                       <label for="password" class="form-label">Password</label>
                       <input type="password" name="password" class="form-control" id="password" required>
-                      <div class="invalid-feedback">Please enter your password!</div>
                     </div>
 
                     
