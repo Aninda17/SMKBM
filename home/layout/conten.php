@@ -1,3 +1,48 @@
+<div class="container">
+
+    <div class="row justify-content-center">
+        <div class="col-3 mb-3 mr-2 ml-2  konten-baru ke1">
+            <div class="row">
+                <div class="col-lg">
+                    <img src="img/vector/ppdb.png" alt="ppdb" class=" float-left">
+                    <h3>PPDB</h3>
+                    <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg mb-3 mr-2 ml-2 konten-baru">
+            <div class="row">
+                <div class="col-lg">
+                    <img src="img/vector/ppdb.png" alt="ppdb" class=" float-left">
+                    <h3>PPDB</h3>
+                    <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg mb-3 mr-2 ml-2 konten-baru">
+            <div class="row">
+                <div class="col-lg">
+                    <img src="img/vector/ppdb.png" alt="ppdb" class=" float-left">
+                    <h3>PPDB</h3>
+                    <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg mb-3 mr-2 ml-2 konten-baru">
+            <div class="row">
+                <div class="col-lg">
+                    <img src="img/vector/ppdb.png" alt="ppdb" class=" float-left">
+                    <h3>PPDB</h3>
+                    <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
 <main id="main">
 
     <!-- ======= Featured Services Section Section ======= -->

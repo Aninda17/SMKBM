@@ -272,6 +272,11 @@ h6 {
   left: 100%;
   visibility: visible;
 }
+#hero .tulisan{
+ text-align:left; 
+ margin-bottom:180px;
+ margin-left: -88px;
+}
 
 @media (max-width: 1366px) {
   .navbar .dropdown .dropdown ul {
@@ -520,6 +525,7 @@ h6 {
 
 #hero .carousel-indicators li {
   cursor: pointer;
+  margin-top: -100px;
 }
 
 #hero .btn-get-started {

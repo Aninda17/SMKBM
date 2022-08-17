@@ -29,6 +29,7 @@
 
     <!-- Template Main CSS File -->
     <link href="home/assets/css/style.css" rel="stylesheet">
+    <link href="home/assets/css/style2.css" rel="stylesheet">
     <link rel="stylesheet" href="home/assets/css/bootstrap.css">
 
     <!-- =======================================================
