@@ -4,8 +4,8 @@
         <div class="col-3 mb-3 mr-2 ml-2  konten-baru ke1">
             <div class="row">
                 <div class="col-lg">
-                    <img src="img/vector/ppdb.png" alt="ppdb" class=" float-left">
-                    <h3>PPDB</h3>
+                    <img src="img/vector/profil.png" alt="ppdb" class=" float-left">
+                    <h3>Profil</h3>
                     <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
                 </div>
             </div>
@@ -22,8 +22,8 @@
         <div class="col-lg mb-3 mr-2 ml-2 konten-baru">
             <div class="row">
                 <div class="col-lg">
-                    <img src="img/vector/ppdb.png" alt="ppdb" class=" float-left">
-                    <h3>PPDB</h3>
+                    <img src="img/vector/dudi.png" alt="ppdb" class=" float-left">
+                    <h3>DUDI</h3>
                     <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
                 </div>
             </div>
@@ -31,8 +31,8 @@
         <div class="col-lg mb-3 mr-2 ml-2 konten-baru">
             <div class="row">
                 <div class="col-lg">
-                    <img src="img/vector/ppdb.png" alt="ppdb" class=" float-left">
-                    <h3>PPDB</h3>
+                    <img src="img/vector/lulusan.png" alt="ppdb" class=" float-left">
+                    <h3>Lulusan</h3>
                     <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
                 </div>
             </div>
