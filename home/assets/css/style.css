@@ -419,7 +419,8 @@ h6 {
 @media (max-height: 500px) {
   #hero {
     height: 150vh;
-  }
+  } 
+
 }
 
 #hero .carousel,
@@ -471,6 +472,9 @@ h6 {
 @media (max-width: 768px) {
   #hero h2 {
     font-size: 28px;
+  }
+    #hero .tulisan {
+     margin-left: -10px;
   }
 }
 
