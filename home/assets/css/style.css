@@ -139,8 +139,20 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgb(0, 0, 0);
+  background: rgb(252, 248, 248);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   height: 60px;
+  
+}
+
+#header.header-scrolled .navbar a{
+  color: #000;
+}
+#header.header-scrolled .navbar a:hover,
+#header.header-scrolled .navbar .active,
+#header.header-scrolled .navbar .active:focus,
+#header.header-scrolled .navbar li:hover>a {
+  color: #F3F229;
 }
 
 #header .logo {
@@ -216,7 +228,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #18d26e;
+  color: #F3F229;
 }
 
 .navbar .dropdown ul {
