@@ -152,7 +152,7 @@ h6 {
 #header.header-scrolled .navbar .active,
 #header.header-scrolled .navbar .active:focus,
 #header.header-scrolled .navbar li:hover>a {
-  color: #F3F229;
+  color: #28a745;
 }
 
 #header .logo {
@@ -228,7 +228,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #F3F229;
+  color: #28a745;
 }
 
 .navbar .dropdown ul {

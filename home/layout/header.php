@@ -10,31 +10,48 @@
 
                 <nav id="navbar" class="navbar">
                     <ul>
-                        <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                        <li><a class="nav-link scrollto" href="#about">About</a></li>
-                        <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                        <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-                        <li><a class="nav-link scrollto" href="#team">Team</a></li>
-                        <li><a class="nav-link  " href="blog.html">Blog</a></li>
-                        <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+                        <li><a class="nav-link scrollto active" href="#">Beranda</a></li>
                             <ul>
-                                <li><a href="#">Drop Down 1</a></li>
-                                <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i
+                                <li class="dropdown"><a href="#"><span>Profile</span> <i
                                             class="bi bi-chevron-right"></i></a>
                                     <ul>
-                                        <li><a href="#">Deep Drop Down 1</a></li>
-                                        <li><a href="#">Deep Drop Down 2</a></li>
-                                        <li><a href="#">Deep Drop Down 3</a></li>
-                                        <li><a href="#">Deep Drop Down 4</a></li>
-                                        <li><a href="#">Deep Drop Down 5</a></li>
+                                        <li><a href="#">Sejarah</a></li>
+                                        <li><a href="#">Visi & Misi</a></li>
+                                        <li><a href="#">Akreditasi</a></li>
+                                        <li><a href="#">Jingle BM</a></li>
+                                        <li><a href="#">Lambang  & Logo</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="#">Drop Down 2</a></li>
-                                <li><a href="#">Drop Down 3</a></li>
-                                <li><a href="#">Drop Down 4</a></li>
                             </ul>
-                        </li>
-                        <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                            <ul>
+                                <li class="dropdown"><a href="#"><span>Jurusan</span> <i
+                                            class="bi bi-chevron-right"></i></a>
+                                    <ul>
+                                        <li><a href="#">Teknik Komputer Dan Jaringan</a></li>
+                                        <li><a href="#">Desain Komunikasi Visual</a></li>
+                                        <li><a href="#">Bisnis Daring</a></li>
+                                        <li><a href="#">Sistem Informatika Jaringan Dan Aplikasi</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                            <ul>
+                                <li class="dropdown"><a href="#"><span>Ekstrakulikuler</span> <i
+                                            class="bi bi-chevron-right"></i></a>
+                                    <ul>
+                                        <li><a href="#">Paskibraka</a></li>
+                                        <li><a href="#">English Club</a></li>
+                                        <li><a href="#">Albanjari</a></li>
+                                        <li><a href="#">Band</a></li>
+                                        <li><a href="#">Dewan Ambalan</a></li>
+                                        <li><a href="#">Silat</a></li>
+                                        <li><a href="#">PMR</a></li>
+                                        <li><a href="#">Dll</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        <li><a class="nav-link scrollto " href="#">Kabar BM</a></li>
+                        <li><a class="nav-link scrollto" href="#">PPDB</a></li>
+                        <li><a class="nav-link" href="#">Contact</a></li>
                     </ul>
                     <i class="bi bi-list mobile-nav-toggle"></i>
                 </nav><!-- .navbar -->
