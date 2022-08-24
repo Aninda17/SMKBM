@@ -48,15 +48,25 @@
     <!-- ======= Featured Services Section Section ======= -->
 
 
+        <!-- ======= Call To Action Section ======= -->
+    <section id="call-to-action">
+        <div class="container text-center" data-aos="zoom-in">
+            <h3>KEPALA SEKOLAH SMK BUDI MULIA PAKISAJI</h3>
+            <p>Selamat datang di website resmi SMK Budi Mulia Pakisaji. Kami berharap sedikit banyak informasi yang tertulis di situs ini dapat menjawab pertanyaan Bapak/Ibu semua.SMK Budi Mulia Pakisaji memiliki 4 program keahlian yang saat ini telah terakreditasi dan mencoba memberikan warna berbeda pada dunia pendidikan dengan beberapa konsep yang memaksimalkan semua potensi di semua lini sekolah dan menjadikannya sebagai alat pendidikan dan pembelajaran bagi siswa.Akhirnya kami ucapkan terima kasih yang tak terhingga kepada semua yang mendukung terbitnya website ini. Sekali lagi selamat datang di SMK Budi Mulia Pakisaji dan selamat bergabung menjadi keluarga besar SMK Budi Mulia Pakisaji.
+            Drs. Suyono, MT.
+</p>
+            <a class="cta-btn" href="#">SELENGAPNYA</a>
+        </div>
+    </section><!-- End Call To Action Section -->
+
+
     <!-- ======= About Us Section ======= -->
     <section id="about">
         <div class="container" data-aos="fade-up">
 
             <header class="section-header">
-                <h3>About Us</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <h3>TOPIK UTAMA</h3>
+                <!-- <p>dIBAGIAN BAWAH NANTI AKAN DI TAMPILKAN SEBUAH BERITA UTAMA ATAU POSTINGAN TERBARU YANG TELAH DIPUBLIKASIKAN OLEH ADMIN</p> -->
             </header>
 
             <div class="row about-cols">
@@ -166,103 +176,46 @@
         </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Call To Action Section ======= -->
-    <section id="call-to-action">
-        <div class="container text-center" data-aos="zoom-in">
-            <h3>Call To Action</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-                anim id est laborum.</p>
-            <a class="cta-btn" href="#">Call To Action</a>
-        </div>
-    </section><!-- End Call To Action Section -->
-
-    <!-- ======= Skills Section ======= -->
-    <section id="skills">
-        <div class="container" data-aos="fade-up">
-
-            <header class="section-header">
-                <h3>Our Skills</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                    labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                    laboris nisi ut aliquip</p>
-            </header>
-
-            <div class="skills-content">
-
-                <div class="progress">
-                    <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0"
-                        aria-valuemax="100">
-                        <span class="skill">HTML <i class="val">100%</i></span>
-                    </div>
-                </div>
-
-                <div class="progress">
-                    <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0"
-                        aria-valuemax="100">
-                        <span class="skill">CSS <i class="val">90%</i></span>
-                    </div>
-                </div>
-
-                <div class="progress">
-                    <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0"
-                        aria-valuemax="100">
-                        <span class="skill">JavaScript <i class="val">75%</i></span>
-                    </div>
-                </div>
-
-                <div class="progress">
-                    <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0"
-                        aria-valuemax="100">
-                        <span class="skill">Photoshop <i class="val">55%</i></span>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-    </section><!-- End Skills Section -->
-
     <!-- ======= Facts Section ======= -->
     <section id="facts">
         <div class="container" data-aos="fade-up">
 
             <header class="section-header">
-                <h3>Facts</h3>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+                <h3>SMK BM DALAM ANGKA</h3>
+                <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p> -->
             </header>
 
             <div class="row counters">
 
                 <div class="col-lg-3 col-6 text-center">
-                    <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
+                    <span data-purecounter-start="0" data-purecounter-end="82" data-purecounter-duration="1"
                         class="purecounter"></span>
-                    <p>Clients</p>
+                    <p>GURU</p>
                 </div>
 
                 <div class="col-lg-3 col-6 text-center">
                     <span data-purecounter-start="0" data-purecounter-end="421" data-purecounter-duration="1"
                         class="purecounter"></span>
-                    <p>Projects</p>
+                    <p>SISWA</p>
                 </div>
 
                 <div class="col-lg-3 col-6 text-center">
-                    <span data-purecounter-start="0" data-purecounter-end="1364" data-purecounter-duration="1"
+                    <span data-purecounter-start="0" data-purecounter-end="11" data-purecounter-duration="1"
                         class="purecounter"></span>
-                    <p>Hours Of Support</p>
+                    <p>EKSTRAKULIKULER</p>
                 </div>
 
                 <div class="col-lg-3 col-6 text-center">
-                    <span data-purecounter-start="0" data-purecounter-end="38" data-purecounter-duration="1"
+                    <span data-purecounter-start="0" data-purecounter-end="1238" data-purecounter-duration="1"
                         class="purecounter"></span>
-                    <p>Hard Workers</p>
+                    <p>ALUMNI</p>
                 </div>
 
             </div>
 
-            <div class="facts-img">
+            <!-- <div class="facts-img">
                 <img src="home/assets/img/facts-img.png" alt="" class="img-fluid">
-            </div>
+            </div> -->
 
         </div>
     </section><!-- End Facts Section -->
@@ -272,16 +225,17 @@
         <div class="container" data-aos="fade-up">
 
             <header class="section-header">
-                <h3 class="section-title">Our Portfolio</h3>
+                <h3 class="section-title">Jurusan Kita</h3>
             </header>
 
-            <div class="row" data-aos="fade-up" data-aos-delay="100"">
+            <div class="row" data-aos="fade-up" data-aos-delay="100">
       <div class=" col-lg-12">
                 <ul id="portfolio-flters">
-                    <li data-filter="*" class="filter-active">All</li>
-                    <li data-filter=".filter-app">App</li>
-                    <li data-filter=".filter-card">Card</li>
-                    <li data-filter=".filter-web">Web</li>
+                    <li data-filter="*" class="filter-active">Semua</li>
+                    <li data-filter=".filter-app">TKJ</li>
+                    <li data-filter=".filter-card">DKV</li>
+                    <li data-filter=".filter-web">BP</li>
+                    <li data-filter=".filter-web">SIJA</li>
                 </ul>
             </div>
         </div>
@@ -479,99 +433,6 @@
         </div>
     </section><!-- End Our Clients Section -->
 
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="section-bg">
-        <div class="container" data-aos="fade-up">
-
-            <header class="section-header">
-                <h3>Testimonials</h3>
-            </header>
-
-            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-                <div class="swiper-wrapper">
-
-                    <div class="swiper-slide">
-                        <div class="testimonial-item">
-                            <img src="home/assets/img/testimonial-1.jpg" class="testimonial-img" alt="">
-                            <h3>Saul Goodman</h3>
-                            <h4>Ceo &amp; Founder</h4>
-                            <p>
-                                <img src="home/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit
-                                rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                                risus at semper.
-                                <img src="home/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-                            </p>
-                        </div>
-                    </div><!-- End testimonial item -->
-
-                    <div class="swiper-slide">
-                        <div class="testimonial-item">
-                            <img src="home/assets/img/testimonial-2.jpg" class="testimonial-img" alt="">
-                            <h3>Sara Wilsson</h3>
-                            <h4>Designer</h4>
-                            <p>
-                                <img src="home/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid
-                                cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet
-                                legam anim culpa.
-                                <img src="home/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-                            </p>
-                        </div>
-                    </div><!-- End testimonial item -->
-
-                    <div class="swiper-slide">
-                        <div class="testimonial-item">
-                            <img src="home/assets/img/testimonial-3.jpg" class="testimonial-img" alt="">
-                            <h3>Jena Karlis</h3>
-                            <h4>Store Owner</h4>
-                            <p>
-                                <img src="home/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem
-                                veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint
-                                minim.
-                                <img src="home/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-                            </p>
-                        </div>
-                    </div><!-- End testimonial item -->
-
-                    <div class="swiper-slide">
-                        <div class="testimonial-item">
-                            <img src="home/assets/img/testimonial-4.jpg" class="testimonial-img" alt="">
-                            <h3>Matt Brandon</h3>
-                            <h4>Freelancer</h4>
-                            <p>
-                                <img src="home/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim
-                                fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem
-                                dolore labore illum veniam.
-                                <img src="home/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-                            </p>
-                        </div>
-                    </div><!-- End testimonial item -->
-
-                    <div class="swiper-slide">
-                        <div class="testimonial-item">
-                            <img src="home/assets/img/testimonial-5.jpg" class="testimonial-img" alt="">
-                            <h3>John Larson</h3>
-                            <h4>Entrepreneur</h4>
-                            <p>
-                                <img src="home/assets/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
-                                veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam
-                                culpa fore nisi cillum quid.
-                                <img src="home/assets/img/quote-sign-right.png" class="quote-sign-right" alt="">
-                            </p>
-                        </div>
-                    </div><!-- End testimonial item -->
-
-                </div>
-                <div class="swiper-pagination"></div>
-            </div>
-
-        </div>
-    </section><!-- End Testimonials Section -->
-
     <!-- ======= Team Section ======= -->
     <section id="team">
         <div class="container" data-aos="fade-up">
@@ -658,74 +519,4 @@
 
         </div>
     </section><!-- End Team Section -->
-
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="section-bg">
-        <div class="container" data-aos="fade-up">
-
-            <div class="section-header">
-                <h3>Contact Us</h3>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
-            </div>
-
-            <div class="row contact-info">
-
-                <div class="col-md-4">
-                    <div class="contact-address">
-                        <i class="bi bi-geo-alt"></i>
-                        <h3>Address</h3>
-                        <address>A108 Adam Street, NY 535022, USA</address>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="contact-phone">
-                        <i class="bi bi-phone"></i>
-                        <h3>Phone Number</h3>
-                        <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="contact-email">
-                        <i class="bi bi-envelope"></i>
-                        <h3>Email</h3>
-                        <p><a href="mailto:info@example.com">info@example.com</a></p>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="form">
-                <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                    <div class="row">
-                        <div class="form-group col-md-6">
-                            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name"
-                                required>
-                        </div>
-                        <div class="form-group col-md-6">
-                            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"
-                                required>
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject"
-                            required>
-                    </div>
-                    <div class="form-group">
-                        <textarea class="form-control" name="message" rows="5" placeholder="Message"
-                            required></textarea>
-                    </div>
-                    <div class="my-3">
-                        <div class="loading">Loading</div>
-                        <div class="error-message"></div>
-                        <div class="sent-message">Your message has been sent. Thank you!</div>
-                    </div>
-                    <div class="text-center"><button type="submit">Send Message</button></div>
-                </form>
-            </div>
-
-        </div>
-    </section><!-- End Contact Section -->
-
 </main>
