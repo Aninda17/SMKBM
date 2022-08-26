@@ -34,21 +34,9 @@
                                     </ul>
                                 </li>
                             </ul>
-                            <ul>
-                                <li class="dropdown"><a href="#"><span>Ekstrakulikuler</span> <i
-                                            class="bi bi-chevron-right"></i></a>
-                                    <ul>
-                                        <li><a href="#">Paskibraka</a></li>
-                                        <li><a href="#">English Club</a></li>
-                                        <li><a href="#">Albanjari</a></li>
-                                        <li><a href="#">Band</a></li>
-                                        <li><a href="#">Dewan Ambalan</a></li>
-                                        <li><a href="#">Silat</a></li>
-                                        <li><a href="#">PMR</a></li>
-                                        <li><a href="#">Dll</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
+                            
+                                
+                        <li><a class="nav-link scrollto " href="#">Ekstrakurikuler</a></li>  
                         <li><a class="nav-link scrollto " href="#">Kabar BM</a></li>
                         <li><a class="nav-link scrollto" href="#">PPDB</a></li>
                         <li><a class="nav-link" href="#">Contact</a></li>
