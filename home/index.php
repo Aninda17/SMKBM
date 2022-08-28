@@ -10,7 +10,7 @@
                 <div class="carousel-item active" style="background-image: url(home/assets/img/hero-carousel/1.jpg)">
                     <div class="carousel-caption tulisan">
                         <h2 class="animate__animated animate__fadeInLeft mb-0">T K J</h2>
-                        <h6 class="animate__animated animate__fadeInUp mt-0"></h6>
+                        <h6 class="animate__animated animate__fadeInUp mt-0">JAKHSDDWTY</h6>
                         <a href="#featured-services"
                             class="btn btn-success btn-sm animate__animated animate__fadeInUp mt-3">Selengkapnya >></a>
                     </div>
