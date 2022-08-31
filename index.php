@@ -5,13 +5,13 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>BizPage Bootstrap Template</title>
+    <title>SMK Budi Mulia Pakisaji</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="home/assets/img/favicon.png" rel="icon">
-    <link href="home/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="img/smk/logo.png" rel="icon">
+    <link href="img/smk/logo.png" rel="apple-touch-icon">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
     <!-- Google Fonts -->
