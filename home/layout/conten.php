@@ -70,20 +70,13 @@
             </header>
 
             <div class="row about-cols">
-
-                <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="about-col">
-                        <div class="img">
-                            <img src="home/assets/img/about-mission.jpg" alt="" class="img-fluid">
-                            <div class="icon"><i class="bi bi-bar-chart"></i></div>
-                        </div>
                         <h2 class="title"><a href="#">Our Mission</a></h2>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore
                             magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
                             aliquip ex ea commodo consequat.
                         </p>
-                    </div>
                 </div>
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
@@ -126,33 +119,49 @@
         <div class="container" data-aos="fade-up">
 
             <header class="section-header wow fadeInUp">
-                <h3>Services</h3>
-                <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant
+                <h3>Berita Kita</h3>
+                <br>
+                <!-- <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant
                     vituperatoribus, ad pro quaestio laboramus. Ei ubique vivendum pro. At ius nisl accusam lorenta
-                    zanos paradigno tridexa panatarel.</p>
+                    zanos paradigno tridexa panatarel.</p> -->
             </header>
 
             <div class="row">
 
                 <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
-                    <div class="icon"><i class="bi bi-briefcase"></i></div>
-                    <h4 class="title"><a href="">Lorem Ipsum</a></h4>
+                    <!-- <div class="icon"><i class="bi bi-briefcase"></i></div> -->
+                    <h4 class="title text-center"><a href="">Kegiatan</a></h4>
                     <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias
-                        excepturi sint occaecati cupiditate non provident</p>
+                        excepturi sint occaecati cupiditate non provident Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
                 <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
-                    <div class="icon"><i class="bi bi-card-checklist"></i></div>
-                    <h4 class="title"><a href="">Dolor Sitema</a></h4>
+                    <!-- <div class="icon"><i class="bi bi-card-checklist"></i></div> -->
+                    <h4 class="title text-center"><a href="">Prestasi</a></h4>
                     <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                        ex ea commodo consequat tarad limino ata</p>
+                        ex ea commodo consequat tarad limino ata Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
                 <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
-                    <div class="icon"><i class="bi bi-bar-chart"></i></div>
-                    <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
+                    <!-- <div class="icon"><i class="bi bi-bar-chart"></i></div> -->
+                    <h4 class="title text-center"><a href="">Pengumuman</a></h4>
                     <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur</p>
+                        dolore eu fugiat nulla pariatur Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
-                <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
+                <!-- <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
                     <div class="icon"><i class="bi bi-binoculars"></i></div>
                     <h4 class="title"><a href="">Magni Dolores</a></h4>
                     <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
@@ -169,7 +178,7 @@
                     <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
                     <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero
                         tempore, cum soluta nobis est eligendi</p>
-                </div>
+                </div> -->
 
             </div>
 
