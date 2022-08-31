@@ -10,7 +10,7 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="img/smk/logo.png" rel="ico">
+    <link href="img/smk/logo.png" rel="icon">
     <link href="img/smk/logo.png" rel="apple-touch-icon">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
