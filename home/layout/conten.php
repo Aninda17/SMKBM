@@ -50,12 +50,31 @@
 
         <!-- ======= Call To Action Section ======= -->
     <section id="call-to-action">
-        <div class="container text-center" data-aos="zoom-in">
+        <div class="container" data-aos="zoom-in">
             <h3>KEPALA SEKOLAH SMK BUDI MULIA PAKISAJI</h3>
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> main
             <p>Selamat datang di website resmi SMK Budi Mulia Pakisaji. Kami berharap sedikit banyak informasi yang tertulis di situs ini dapat menjawab pertanyaan Bapak/Ibu semua. SMK Budi Mulia Pakisaji memiliki 4 program keahlian yang saat ini telah terakreditasi dan mencoba memberikan warna berbeda pada dunia pendidikan dengan beberapa konsep yang memaksimalkan semua potensi di semua lini sekolah dan menjadikannya sebagai alat pendidikan dan pembelajaran bagi siswa. Akhirnya kami ucapkan terima kasih yang tak terhingga kepada semua yang mendukung terbitnya website ini. Sekali lagi selamat datang di SMK Budi Mulia Pakisaji dan selamat bergabung menjadi keluarga besar SMK Budi Mulia Pakisaji. <br>
             Drs. Suyono, MT.
 </p>
             <a class="cta-btn" href="#">SELENGKAPNYA</a>
+<<<<<<< HEAD
+=======
+            <div class="row">
+                <div class="col-lg">
+                    <img src="home/assets/img/team-1.jpg">
+                </div>
+                <div class="col-lg">
+                    <p>Selamat datang di website resmi SMK Budi Mulia Pakisaji. Kami berharap sedikit banyak informasi yang tertulis di situs ini dapat menjawab pertanyaan Bapak/Ibu semua.SMK Budi Mulia Pakisaji memiliki 4 program keahlian yang saat ini telah terakreditasi dan mencoba memberikan warna berbeda pada dunia pendidikan dengan beberapa konsep yang memaksimalkan semua potensi di semua lini sekolah dan menjadikannya sebagai alat pendidikan dan pembelajaran bagi siswa.Akhirnya kami ucapkan terima kasih yang tak terhingga kepada semua yang mendukung terbitnya website ini. Sekali lagi selamat datang di SMK Budi Mulia Pakisaji dan selamat bergabung menjadi keluarga besar SMK Budi Mulia Pakisaji.
+                Drs. Suyono, MT.</p>
+                </div>
+            </div>
+                <a class="cta-btn" href="#">SELENGAPNYA</a>
+>>>>>>> Stashed changes
+=======
+>>>>>>> main
         </div>
     </section><!-- End Call To Action Section -->
 
@@ -70,20 +89,27 @@
             </header>
 
             <div class="row about-cols">
+                <!-- <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="about-col">
+                        <div class="img">
+                            <img src="home/assets/img/about-mission.jpg" alt="" class="img-fluid">
+                        </div>
                         <h2 class="title"><a href="#">Our Mission</a></h2>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore
                             magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
                             aliquip ex ea commodo consequat.
                         </p>
-                </div>
-
+                    </div>
+                </div> -->
+                <!-- slider -->
+                
+                <!-- akhir slider -->
+                <!-- awal -->
                 <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
                     <div class="about-col">
                         <div class="img">
                             <img src="home/assets/img/about-plan.jpg" alt="" class="img-fluid">
-                            <div class="icon"><i class="bi bi-brightness-high"></i></div>
                         </div>
                         <h2 class="title"><a href="#">Our Plan</a></h2>
                         <p>
@@ -93,12 +119,11 @@
                         </p>
                     </div>
                 </div>
-
+                <!-- akhir -->
                 <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
                     <div class="about-col">
                         <div class="img">
                             <img src="home/assets/img/about-vision.jpg" alt="" class="img-fluid">
-                            <div class="icon"><i class="bi bi-calendar4-week"></i></div>
                         </div>
                         <h2 class="title"><a href="#">Our Vision</a></h2>
                         <p>

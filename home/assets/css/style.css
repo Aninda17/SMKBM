@@ -926,10 +926,13 @@ section {
   color: #fff;
   font-size: 28px;
   font-weight: 700;
+  text-align: center;
 }
 
 #call-to-action p {
   color: #fff;
+  margin-top: 50px;
+  font-size: 18px;
 }
 
 #call-to-action .cta-btn {
