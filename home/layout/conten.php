@@ -52,10 +52,10 @@
     <section id="call-to-action">
         <div class="container text-center" data-aos="zoom-in">
             <h3>KEPALA SEKOLAH SMK BUDI MULIA PAKISAJI</h3>
-            <p>Selamat datang di website resmi SMK Budi Mulia Pakisaji. Kami berharap sedikit banyak informasi yang tertulis di situs ini dapat menjawab pertanyaan Bapak/Ibu semua.SMK Budi Mulia Pakisaji memiliki 4 program keahlian yang saat ini telah terakreditasi dan mencoba memberikan warna berbeda pada dunia pendidikan dengan beberapa konsep yang memaksimalkan semua potensi di semua lini sekolah dan menjadikannya sebagai alat pendidikan dan pembelajaran bagi siswa.Akhirnya kami ucapkan terima kasih yang tak terhingga kepada semua yang mendukung terbitnya website ini. Sekali lagi selamat datang di SMK Budi Mulia Pakisaji dan selamat bergabung menjadi keluarga besar SMK Budi Mulia Pakisaji.
+            <p>Selamat datang di website resmi SMK Budi Mulia Pakisaji. Kami berharap sedikit banyak informasi yang tertulis di situs ini dapat menjawab pertanyaan Bapak/Ibu semua. SMK Budi Mulia Pakisaji memiliki 4 program keahlian yang saat ini telah terakreditasi dan mencoba memberikan warna berbeda pada dunia pendidikan dengan beberapa konsep yang memaksimalkan semua potensi di semua lini sekolah dan menjadikannya sebagai alat pendidikan dan pembelajaran bagi siswa. Akhirnya kami ucapkan terima kasih yang tak terhingga kepada semua yang mendukung terbitnya website ini. Sekali lagi selamat datang di SMK Budi Mulia Pakisaji dan selamat bergabung menjadi keluarga besar SMK Budi Mulia Pakisaji. <br>
             Drs. Suyono, MT.
 </p>
-            <a class="cta-btn" href="#">SELENGAPNYA</a>
+            <a class="cta-btn" href="#">SELENGKAPNYA</a>
         </div>
     </section><!-- End Call To Action Section -->
 
@@ -411,88 +411,113 @@
 
     <!-- ======= Team Section ======= -->
     <section id="team">
-        <div class="container" data-aos="fade-up">
+        <div class="container" data-aos="zoom-in">
             <div class="section-header">
                 <h3>Guru</h3>
                 <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p> -->
             </div>
 
             <div class="row">
+                <!-- slider swiper -->
+                <div class="clients-slider swiper">
+                    <div class="swiper-wrapper align-items-center">
 
-                <div class="col-lg-3 col-md-6">
-                    <div class="member" data-aos="fade-up" data-aos-delay="100">
+                <div class="swiper-slide">                     
+                    <div class="member" >
                         <img src="home/assets/img/team-1.jpg" class="img-fluid" alt="">
                         <div class="member-info">
                             <div class="member-info-content">
                                 <h4>Walter White</h4>
                                 <span>Chief Executive Officer</span>
                                 <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
+                                    <a href="#" class="btn btn-outline-success btn-sm but">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+                       
                 </div>
 
-                <div class="col-lg-3 col-md-6">
-                    <div class="member" data-aos="fade-up" data-aos-delay="200">
+
+                <div class="swiper-slide">
+                    
+                    <div class="member">
                         <img src="home/assets/img/team-2.jpg" class="img-fluid" alt="">
                         <div class="member-info">
                             <div class="member-info-content">
                                 <h4>Sarah Jhonson</h4>
                                 <span>Product Manager</span>
                                 <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
+                                    <a href="#" class="btn btn-outline-success btn-sm but">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    
                 </div>
 
-                <div class="col-lg-3 col-md-6">
-                    <div class="member" data-aos="fade-up" data-aos-delay="300">
+
+
+                    <div class="swiper-slide">
+                        
+                    <div class="member">
                         <img src="home/assets/img/team-3.jpg" class="img-fluid" alt="">
                         <div class="member-info">
                             <div class="member-info-content">
                                 <h4>William Anderson</h4>
                                 <span>CTO</span>
                                 <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
+                                    <a href="#" class="btn btn-outline-success btn-sm but">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+                        
+                    </div>
 
-                <div class="col-lg-3 col-md-6">
-                    <div class="member" data-aos="fade-up" data-aos-delay="400">
+                     <div class="swiper-slide">
+                        
+                    <div class="member">
                         <img src="home/assets/img/team-4.jpg" class="img-fluid" alt="">
                         <div class="member-info">
                             <div class="member-info-content">
                                 <h4>Amanda Jepson</h4>
                                 <span>Accountant</span>
                                 <div class="social">
-                                    <a href=""><i class="bi bi-twitter"></i></a>
-                                    <a href=""><i class="bi bi-facebook"></i></a>
-                                    <a href=""><i class="bi bi-instagram"></i></a>
-                                    <a href=""><i class="bi bi-linkedin"></i></a>
+                                    <a href="#" class="btn btn-outline-success btn-sm but">Selengkapnya</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+                
+                    </div>
+
+
+                <div class="swiper-slide">
+                    
+                    <div class="member">
+                        <img src="home/assets/img/team-2.jpg" class="img-fluid" alt="">
+                        <div class="member-info">
+                            <div class="member-info-content">
+                                <h4>Sarah Jhonson</h4>
+                                <span>Product Manager</span>
+                                <div class="social">
+                                    <a href="#" class="btn btn-outline-success btn-sm but">Selengkapnya</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>              
+
+                
+                
+                
+               
+<div class="swiper-pagination"></div> 
                 </div>
-
             </div>
-
+                <!-- end slider swiper -->
         </div>
     </section><!-- End Team Section -->
 

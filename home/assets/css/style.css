@@ -1419,17 +1419,17 @@ section {
   color: #fff;
 }
 
-#team .member .social {
+#team .member .social  {
   margin-top: 15px;
 }
 
 #team .member .social a {
   transition: none;
-  color: #fff;
+  color: #34eb61;
 }
 
 #team .member .social a:hover {
-  color: #18d26e;
+  color: #ffff;
 }
 
 #team .member .social i {

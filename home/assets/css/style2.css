@@ -22,3 +22,7 @@
     margin-bottom: 20px;
 }
 
+/*button radius team/guru */
+#team .row .social .but{
+    border-radius: 100px;
+}
