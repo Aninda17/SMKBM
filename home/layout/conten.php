@@ -52,16 +52,6 @@
     <section id="call-to-action">
         <div class="container" data-aos="zoom-in">
             <h3>KEPALA SEKOLAH SMK BUDI MULIA PAKISAJI</h3>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
->>>>>>> main
-            <p>Selamat datang di website resmi SMK Budi Mulia Pakisaji. Kami berharap sedikit banyak informasi yang tertulis di situs ini dapat menjawab pertanyaan Bapak/Ibu semua. SMK Budi Mulia Pakisaji memiliki 4 program keahlian yang saat ini telah terakreditasi dan mencoba memberikan warna berbeda pada dunia pendidikan dengan beberapa konsep yang memaksimalkan semua potensi di semua lini sekolah dan menjadikannya sebagai alat pendidikan dan pembelajaran bagi siswa. Akhirnya kami ucapkan terima kasih yang tak terhingga kepada semua yang mendukung terbitnya website ini. Sekali lagi selamat datang di SMK Budi Mulia Pakisaji dan selamat bergabung menjadi keluarga besar SMK Budi Mulia Pakisaji. <br>
-            Drs. Suyono, MT.
-</p>
-            <a class="cta-btn" href="#">SELENGKAPNYA</a>
-<<<<<<< HEAD
-=======
             <div class="row">
                 <div class="col-lg">
                     <img src="home/assets/img/team-1.jpg">
@@ -72,9 +62,6 @@
                 </div>
             </div>
                 <a class="cta-btn" href="#">SELENGAPNYA</a>
->>>>>>> Stashed changes
-=======
->>>>>>> main
         </div>
     </section><!-- End Call To Action Section -->
 
