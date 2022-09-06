@@ -431,7 +431,7 @@
 
             <div class="row">
                 <!-- slider swiper -->
-                <div class="clients-slider swiper">
+                <div class="team-slider swiper">
                     <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">                     
