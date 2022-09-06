@@ -431,7 +431,7 @@
 
             <div class="row">
                 <!-- slider swiper -->
-                <div class="team-slider swiper">
+                <div class="team-slider swiper mb-5">
                     <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">                     
@@ -526,10 +526,11 @@
                 
                 
                
-<div class="swiper-pagination"></div> 
+
                 </div>
+              
             </div>
-                <!-- end slider swiper -->
+              <div class="swiper-pagination " style="color: blue;"></div>     <!-- end slider swiper -->
         </div>
     </section><!-- End Team Section -->
 
