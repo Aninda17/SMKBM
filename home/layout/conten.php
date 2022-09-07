@@ -57,8 +57,13 @@
                     <img src="home/assets/img/team-1.jpg" class="img-thumbnail">
                 </div>
                 <div class="col-lg">
-                    <p>Selamat datang di website resmi SMK Budi Mulia Pakisaji. Kami berharap sedikit banyak informasi yang tertulis di situs ini dapat menjawab pertanyaan Bapak/Ibu semua.SMK Budi Mulia Pakisaji memiliki 4 program keahlian yang saat ini telah terakreditasi dan mencoba memberikan warna berbeda pada dunia pendidikan dengan beberapa konsep yang memaksimalkan semua potensi di semua lini sekolah dan menjadikannya sebagai alat pendidikan dan pembelajaran bagi siswa.Akhirnya kami ucapkan terima kasih yang tak terhingga kepada semua yang mendukung terbitnya website ini. Sekali lagi selamat datang di SMK Budi Mulia Pakisaji dan selamat bergabung menjadi keluarga besar SMK Budi Mulia Pakisaji.
-                Drs. Suyono, MT.</p>
+                    <p>Selamat datang di website resmi SMK Budi Mulia Pakisaji. Kami berharap sedikit banyak informasi yang tertulis di situs ini dapat menjawab pertanyaan Bapak/Ibu semua.
+                    <br><br>
+                    SMK Budi Mulia Pakisaji memiliki 4 program keahlian yang saat ini telah terakreditasi dan mencoba memberikan warna berbeda pada dunia pendidikan dengan beberapa konsep yang memaksimalkan semua potensi di semua lini sekolah dan menjadikannya sebagai alat pendidikan dan pembelajaran bagi siswa.
+                    <br><br>
+                    Akhirnya kami ucapkan terima kasih yang tak terhingga kepada semua yang mendukung terbitnya website ini. Sekali lagi selamat datang di SMK Budi Mulia Pakisaji dan selamat bergabung menjadi keluarga besar SMK Budi Mulia Pakisaji.
+                    <br>
+                    <b>Drs. Suyono, MT.</b></p>
                 </div>
             </div>
                 <div class="col-sm-12 text-center mt-5">
@@ -78,7 +83,7 @@
             </header>
 
             <div class="row about-cols">
-                <!-- <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
                     <div class="about-col">
                         <div class="img">
                             <img src="home/assets/img/about-mission.jpg" alt="" class="img-fluid">
@@ -90,7 +95,7 @@
                             aliquip ex ea commodo consequat.
                         </p>
                     </div>
-                </div> -->
+                </div>
                 <!-- slider -->
                 
                 <!-- akhir slider -->

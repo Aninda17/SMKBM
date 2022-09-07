@@ -23,10 +23,10 @@
 }
 /*contain kepsek*/
 #call-to-action .container img{
-    margin-top: 50px;
+    margin-top: 25px;
     width:350px;
-    height:350px;
-   margin-left: 130px;
+    height:400px;
+    margin-left: 130px;
 }
 
 /*button radius team/guru */
