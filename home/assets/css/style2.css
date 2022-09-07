@@ -33,3 +33,7 @@
 #team .row .social .but{
     border-radius: 100px;
 }
+
+#team .row img{
+    border-radius: 30px;
+}

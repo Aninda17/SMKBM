@@ -135,7 +135,7 @@
 
     <!-- ======= Services Section ======= -->
     <section id="services">
-        <div class="container" data-aos="fade-up">
+       
 
             <header class="section-header wow fadeInUp">
                 <h3>Berita Kita</h3>
@@ -158,7 +158,7 @@
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
-                <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200" style="background-color: #0DBDB2">
                     <!-- <div class="icon"><i class="bi bi-card-checklist"></i></div> -->
                     <h4 class="title text-center"><a href="">Prestasi</a></h4>
                     <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip

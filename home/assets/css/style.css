@@ -873,7 +873,8 @@ section {
 #services {
   background: #fff;
   background-size: cover;
-  padding: 60px 0 40px 0;
+  padding: 0px 0 40px 
+  0;
 }
 
 #services .box {
@@ -910,6 +911,7 @@ section {
 #services .description {
   font-size: 14px;
   margin-left: 60px;
+  margin-right: 60px;
   line-height: 24px;
   margin-bottom: 0;
 }
@@ -1381,7 +1383,7 @@ section {
 #team .member {
   text-align: center;
   margin-bottom: 20px;
-  background: #000;
+  background: #ffff;
   position: relative;
 }
 
