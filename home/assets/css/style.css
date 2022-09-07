@@ -948,6 +948,7 @@ section {
   margin-top: 10px;
   border: 2px solid #fff;
   color: #fff;
+  text-decoration: none;
 }
 
 #call-to-action .cta-btn:hover {
