@@ -871,14 +871,16 @@ section {
 /* Services Section
 --------------------------------*/
 #services {
-  background: #fff;
+  background: #f0f5f2;
   background-size: cover;
   padding: 0px 0 40px 
   0;
 }
 
 #services .box {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
+  height: 500px;
+  width: 800px;
 }
 
 #services .icon {
@@ -896,7 +898,8 @@ section {
   margin-left: 60px;
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 20px;
+  padding-top: 20px;
 }
 
 #services .title a {
@@ -906,6 +909,11 @@ section {
 
 #services .box:hover .title a {
   color: #18d26e;
+  text-decoration: underline;
+}
+
+#services .box:hover .jdl a {
+  color: #f0f5f2;
 }
 
 #services .description {
@@ -913,7 +921,12 @@ section {
   margin-left: 60px;
   margin-right: 60px;
   line-height: 24px;
-  margin-bottom: 0;
+  margin-bottom: 0px;
+
+}
+
+#services .wow {
+  padding-top: 50px;
 }
 
 /* Call To Action Section

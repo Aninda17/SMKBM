@@ -147,9 +147,9 @@
 
             <div class="row">
 
-                <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-lg-4 col-md-6 text-justify box" data-aos="fade-up" data-aos-delay="100">
                     <!-- <div class="icon"><i class="bi bi-briefcase"></i></div> -->
-                    <h4 class="title text-center"><a href="">Kegiatan</a></h4>
+                    <h4 class="title text-center"><a href="">KEGIATAN</a></h4>
                     <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias
                         excepturi sint occaecati cupiditate non provident Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -158,20 +158,20 @@
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                         proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
-                <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200" style="background-color: #0DBDB2">
+                <div class="col-lg-4 col-md-6 text-justify box" data-aos="fade-up" data-aos-delay="200" style="background-color: #0DBDB2">
                     <!-- <div class="icon"><i class="bi bi-card-checklist"></i></div> -->
-                    <h4 class="title text-center"><a href="">Prestasi</a></h4>
+                    <h4 class="title jdl text-center"><a href="">PRESTASI</a></h4>
                     <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
                         ex ea commodo consequat tarad limino ata Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
                 </div>
-                <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
+                <div class="col-lg-4 col-md-6 text-justify box" data-aos="fade-up" data-aos-delay="300">
                     <!-- <div class="icon"><i class="bi bi-bar-chart"></i></div> -->
-                    <h4 class="title text-center"><a href="">Pengumuman</a></h4>
+                    <h4 class="title text-center"><a href="">PENGUMUMAN</a></h4>
                     <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
                         dolore eu fugiat nulla pariatur Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
