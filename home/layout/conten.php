@@ -6,7 +6,7 @@
                 <div class="col-lg">
                     <img src="img/vector/profil.png" alt="ppdb" class=" float-left">
                     <h3>Profil</h3>
-                    <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
+                    <p>Lebih mengenal SMK Budi Mulia Pakisaji</p>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
                 <div class="col-lg">
                     <img src="img/vector/dudi.png" alt="ppdb" class=" float-left">
                     <h3>DUDI</h3>
-                    <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
+                    <p>Informasi terkait mitra dunia usaha dan dunia industri</p>
                 </div>
             </div>
         </div>
@@ -33,7 +33,7 @@
                 <div class="col-lg">
                     <img src="img/vector/lulusan.png" alt="ppdb" class=" float-left">
                     <h3>Lulusan</h3>
-                    <p>Informasi terkait pendaftaran peserta didik baru (PPDB)</p>
+                    <p>Informasi terkait lulusan dan alumni SMK Budi Mulia</p>
                 </div>
             </div>
         </div>
