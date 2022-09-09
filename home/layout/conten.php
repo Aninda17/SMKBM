@@ -552,21 +552,19 @@
 
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="home/assets/img/clients/client-1.png" class="img-fluid" alt="">
+                    <div class="swiper-slide"><img src="home/assets/img/clients/logo.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="home/assets/img/clients/client-2.png" class="img-fluid" alt="">
+                    <div class="swiper-slide"><img src="home/assets/img/clients/bmnet.jpeg" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="home/assets/img/clients/client-3.png" class="img-fluid" alt="">
+                    <div class="swiper-slide"><img src="home/assets/img/clients/BM-MART-logo png.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="home/assets/img/clients/client-4.png" class="img-fluid" alt="">
+                    <div class="swiper-slide"><img src="home/assets/img/clients/bmpd.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="home/assets/img/clients/client-5.png" class="img-fluid" alt="">
+                    <div class="swiper-slide"><img src="home/assets/img/clients/sija.jpeg" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="home/assets/img/clients/client-6.png" class="img-fluid" alt="">
+                    <div class="swiper-slide tkj" style="width: 100px; height: 100px; position: relative; left: 30px; bottom: 10px;"><img src="home/assets/img/clients/tkj(3).png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="home/assets/img/clients/client-7.png" class="img-fluid" alt="">
-                    </div>
-                    <div class="swiper-slide"><img src="home/assets/img/clients/client-8.png" class="img-fluid" alt="">
+                    <div class="swiper-slide"><img src="home/assets/img/clients/bdp(1).png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="swiper-pagination"></div>
