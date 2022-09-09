@@ -27,16 +27,15 @@
                         Bendo, Karangpandan <br>
                         Kec. Pakisaji, Kabupaten Malang <br>
                         Jawa Timur 65162 <br>
-                        <strong>Phone:</strong> +6281654997050<br>
-                        <strong>Email:</strong> ernimauluddyiyah@gmail.com<br>
+                        <strong>Telp:</strong> (0341) 837317<br>
+                        <strong>Email:</strong> <a href="Official@smkbudimuliapakisaji.sch.id">Official@smkbudimuliapakisaji.sch.id</a><br>
                     </p>
 
                     <div class="social-links">
-                        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                        <a href="https://twitter.com/smkbmpakisaji" class="twitter"><i class="bi bi-twitter"></i></a>
+                        <a href="https://www.facebook.com/smkbmpakisaji/" class="facebook"><i class="bi bi-facebook"></i></a>
+                        <a href="" class="youtube"><i class="bi bi-youtube"></i></a>
+                        <a href="https://www.instagram.com/smkbmpakisaji/?hl=id" class="instagram"><i class="bi bi-instagram"></i></a>
                     </div>
 
                 </div>
