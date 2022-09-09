@@ -879,8 +879,7 @@ section {
 
 #services .box {
   margin-bottom: 0px;
-  height: 500px;
-  width: 800px;
+
 }
 
 #services .icon {
@@ -1422,6 +1421,7 @@ section {
   background: rgba(0, 0, 0, 0.7);
   opacity: 1;
   transition: 0.4s;
+  border-radius: 27px;
 }
 
 #team .member:hover .member-info-content {
