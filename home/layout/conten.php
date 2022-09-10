@@ -56,7 +56,7 @@
                 <div class="col-lg">
                     <img src="home/assets/img/team-1.jpg" class="img-thumbnail">
                 </div>
-                <div class="col-lg">
+                <div class="col-lg text-justify">
                     <p>Selamat datang di website resmi SMK Budi Mulia Pakisaji. Kami berharap sedikit banyak informasi yang tertulis di situs ini dapat menjawab pertanyaan Bapak/Ibu semua.
                     <br><br>
                     SMK Budi Mulia Pakisaji memiliki 4 program keahlian yang saat ini telah terakreditasi dan mencoba memberikan warna berbeda pada dunia pendidikan dengan beberapa konsep yang memaksimalkan semua potensi di semua lini sekolah dan menjadikannya sebagai alat pendidikan dan pembelajaran bagi siswa.
@@ -88,7 +88,7 @@
                         <div class="img">
                             <img src="home/assets/img/about-mission.jpg" alt="" class="img-fluid">
                         </div>
-                        <h2 class="title"><a href="#">Our Mission</a></h2>
+                        <h2 class="title"><a href="#">Arema FC mengunjungi SMK Budi Mu;ia</a></h2>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore
                             magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -135,73 +135,68 @@
 
     <!-- ======= Services Section ======= -->
     <section id="services">
-       
-
             <header class="section-header wow fadeInUp">
                 <h3>Berita Kita</h3>
                 <br>
-                <!-- <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant
-                    vituperatoribus, ad pro quaestio laboramus. Ei ubique vivendum pro. At ius nisl accusam lorenta
-                    zanos paradigno tridexa panatarel.</p> -->
             </header>
-
-            <div class="row">
-
-                <div class="col-lg-4 col-md-6 text-justify box" data-aos="fade-up" data-aos-delay="100">
-                    <!-- <div class="icon"><i class="bi bi-briefcase"></i></div> -->
+            <!-- Kegiatan kegiatan -->
+            <div class="row" style="margin-bottom: -45px;">
+            <!-- Kegiatan -->
+                <div class="col-lg-4 box" data-aos="fade-up" data-aos-delay="100">
                     <h4 class="title text-center"><a href="">KEGIATAN</a></h4>
-                    <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias
-                        excepturi sint occaecati cupiditate non provident Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <ul class="ml-5 berita">
+                        <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                    </ul>
                 </div>
-                <div class="col-lg-4 col-md-6 text-justify box" data-aos="fade-up" data-aos-delay="200" style="background-color: #0DBDB2">
-                    <!-- <div class="icon"><i class="bi bi-card-checklist"></i></div> -->
-                    <h4 class="title jdl text-center"><a href="">PRESTASI</a></h4>
-                    <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                        ex ea commodo consequat tarad limino ata Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+            <!-- End kegiatan -->
+            <!-- Prestasi -->
+                <div class="col-lg-4 box" data-aos="fade-up" data-aos-delay="200">
+                    <div class="row ml-5 mr-5">
+                        <div class="col" style="background-color: #3bbfb6">
+                             <h4 class="title jdl  text-center"><a href="">PRESTASI</a></h4>
+                    <ul class="berita" style="margin-left: -23px;">
+                        <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0" ><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                    </ul>
+                        </div>
+                    </div>
                 </div>
-                <div class="col-lg-4 col-md-6 text-justify box" data-aos="fade-up" data-aos-delay="300">
-                    <!-- <div class="icon"><i class="bi bi-bar-chart"></i></div> -->
+            <!-- End Prestasi -->
+            <!-- Pengumuman -->
+                <div class="col-lg-4 box" data-aos="fade-up" data-aos-delay="300">
                     <h4 class="title text-center"><a href="">PENGUMUMAN</a></h4>
-                    <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <ul class="mr-5 berita">
+                        <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
+                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                    </ul>
                 </div>
-                <!-- <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
-                    <div class="icon"><i class="bi bi-binoculars"></i></div>
-                    <h4 class="title"><a href="">Magni Dolores</a></h4>
-                    <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-                        deserunt mollit anim id est laborum</p>
-                </div>
-                <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
-                    <div class="icon"><i class="bi bi-brightness-high"></i></div>
-                    <h4 class="title"><a href="">Nemo Enim</a></h4>
-                    <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-                        praesentium voluptatum deleniti atque</p>
-                </div>
-                <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
-                    <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-                    <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-                    <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero
-                        tempore, cum soluta nobis est eligendi</p>
-                </div> -->
-
+            <!-- End Pengumuman -->
             </div>
-
-        </div>
     </section><!-- End Services Section -->
 
     <!-- ======= Facts Section ======= -->
@@ -210,7 +205,6 @@
 
             <header class="section-header">
                 <h3>SMK BM DALAM ANGKA</h3>
-                <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p> -->
             </header>
 
             <div class="row counters">

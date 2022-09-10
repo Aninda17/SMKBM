@@ -861,7 +861,7 @@ section {
 }
 
 #about .about-col p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #333;
   margin-bottom: 0;
@@ -873,8 +873,7 @@ section {
 #services {
   background: #f0f5f2;
   background-size: cover;
-  padding: 0px 0 40px 
-  0;
+  padding: 0px 0 40px 0;
 }
 
 #services .box {
@@ -915,6 +914,10 @@ section {
   color: #f0f5f2;
 }
 
+#services .box .jdl a {
+  margin-left: -65px;
+}
+
 #services .description {
   font-size: 14px;
   margin-left: 60px;
@@ -931,7 +934,7 @@ section {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(0, 0, 0, 0.1)), url(../img/call-to-action-bg.jpg) fixed center center;
+  background: linear-gradient(rgba(27, 155, 116, 1), rgba(0, 0, 0, 0.22)), url(../img/g1.jpeg) fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
@@ -946,7 +949,8 @@ section {
 #call-to-action p {
   color: #fff;
   margin-top: 25px;
-  font-size: 18px;
+  font-size: 15px;
+  margin-left:-130px;
 }
 
 #call-to-action .cta-btn {

@@ -24,9 +24,8 @@
 /*contain kepsek*/
 #call-to-action .container img{
     margin-top: 25px;
-    width:350px;
-    height:400px;
-    margin-left: 130px;
+    height:250px;
+    margin-left: 150px;
 }
 
 /*button radius team/guru */
@@ -41,4 +40,11 @@
 #clients .swiper .tkj {
     width: 20px;
     height: 160px;
+}
+/*Berita Kita*/
+.row .berita ul{
+    list-style-type: none;
+}
+.row .berita li{
+    list-style-type: none;
 }
