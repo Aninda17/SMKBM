@@ -140,40 +140,40 @@
                 <br>
             </header>
             <!-- Kegiatan kegiatan -->
-            <div class="row" style="margin-bottom: -45px;">
+            <div class="row">
             <!-- Kegiatan -->
                 <div class="col-lg-4 box" data-aos="fade-up" data-aos-delay="100">
                     <h4 class="title text-center"><a href="">KEGIATAN</a></h4>
                     <ul class="ml-5 berita">
                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                     </ul>
                 </div>
             <!-- End kegiatan -->
             <!-- Prestasi -->
                 <div class="col-lg-4 box" data-aos="fade-up" data-aos-delay="200">
                     <div class="row ml-5 mr-5">
-                        <div class="col" style="background-color: #3bbfb6">
+                        <div class="col bg">
                              <h4 class="title jdl  text-center"><a href="">PRESTASI</a></h4>
-                    <ul class="berita" style="margin-left: -23px;">
+                    <ul class="berita p">
                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0" ><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                     </ul>
                         </div>
                     </div>
@@ -184,15 +184,15 @@
                     <h4 class="title text-center"><a href="">PENGUMUMAN</a></h4>
                     <ul class="mr-5 berita">
                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                          <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
-                        <span style="font-size: 12px;">09 Agustus 2022</span>
+                        <span>09 Agustus 2022</span>
                     </ul>
                 </div>
             <!-- End Pengumuman -->

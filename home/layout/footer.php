@@ -23,10 +23,10 @@
                 <div class="col-lg-4 col-md-6 footer-contact">
                     <h4>Kontak Kami</h4>
                     <p>
-                        Jl. Anjasmoro No.108 <br>
+                        <a href="https://www.google.com/maps/place/Smk+Budi+Mulia+Pakisaji,+Jl.+Anjasmoro+No.108,+Bendo,+Karangpandan,+Kec.+Pakisaji,+Kabupaten+Malang,+Jawa+Timur+65162/@-8.0721185,112.5892621,17z/data=!3m1!4b1!4m9!1m2!2m1!1ssmk+budi+mulia+pakisaji!3m5!1s0x2e789dc24973f83d:0xc3f6f84a45b5de37!8m2!3d-8.0721238!4d112.5934893!15sChdzbWsgYnVkaSBtdWxpYSBwYWtpc2FqaZIBEWNvbXBvdW5kX2J1aWxkaW5n4AEA">Jl. Anjasmoro No.108 <br>
                         Bendo, Karangpandan <br>
                         Kec. Pakisaji, Kabupaten Malang <br>
-                        Jawa Timur 65162 <br>
+                        Jawa Timur 65162 <br></a>
                         <strong>Telp:</strong> (0341) 837317<br>
                         <strong>Email:</strong> <a href="Official@smkbudimuliapakisaji.sch.id">Official@smkbudimuliapakisaji.sch.id</a><br>
                     </p>
