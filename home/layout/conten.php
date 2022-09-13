@@ -67,7 +67,7 @@
                 </div>
             </div>
                 <div class="col-sm-12 text-center mt-5">
-                    <a class="cta-btn" href="">SELENGAPNYA</a>
+                    <a class="cta-btn" href="">SELENGKAPNYA</a>
                 </div>
         </div>
     </section><!-- End Call To Action Section -->
@@ -541,7 +541,7 @@
         <div class="container" data-aos="zoom-in">
 
             <header class="section-header">
-                <h3>Teaching Vactory</h3>
+                <h3>Supported By</h3>
             </header>
 
             <div class="clients-slider swiper">
@@ -550,13 +550,13 @@
                     </div>
                     <div class="swiper-slide"><img src="home/assets/img/clients/bmnet.jpeg" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="home/assets/img/clients/BM-MART-logo png.png" class="img-fluid" alt="">
+                    <div class="swiper-slide"><img src="home/assets/img/clients/BM-MART-logo png.png" class="img-fluid" style="width: 260px; height: 86px;" alt="">
                     </div>
                     <div class="swiper-slide"><img src="home/assets/img/clients/bmpd.png" class="img-fluid" alt="" style="width: 110px; height: 57px; position: relative; left: 20px; top: 0px;">
                     </div>
                     <div class="swiper-slide"><img src="home/assets/img/clients/sija.jpeg" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide tkj"><img src="home/assets/img/clients/tkj(3).png" class="img-fluid" alt="" style="width: 80px; height: 80px; position: relative; left: 20px; bottom: -35px;">
+                    <div class="swiper-slide tkj"><img src="home/assets/img/clients/tkj(3).png" class="img-fluid" alt="" style="width: 80px; height: 80px; position: relative; left: 35px; bottom: -35px;">
                     </div>
                     <div class="swiper-slide"><img src="home/assets/img/clients/bdp(1).png" class="img-fluid" alt="">
                     </div>
