@@ -552,11 +552,11 @@
                     </div>
                     <div class="swiper-slide"><img src="home/assets/img/clients/BM-MART-logo png.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="home/assets/img/clients/bmpd.png" class="img-fluid" alt="">
+                    <div class="swiper-slide"><img src="home/assets/img/clients/bmpd.png" class="img-fluid" alt="" style="width: 110px; height: 57px; position: relative; left: 20px; top: 0px;">
                     </div>
                     <div class="swiper-slide"><img src="home/assets/img/clients/sija.jpeg" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide tkj" style="width: 100px; height: 100px; position: relative; left: 30px; bottom: 10px;"><img src="home/assets/img/clients/tkj(3).png" class="img-fluid" alt="">
+                    <div class="swiper-slide tkj"><img src="home/assets/img/clients/tkj(3).png" class="img-fluid" alt="" style="width: 80px; height: 80px; position: relative; left: 20px; bottom: -35px;">
                     </div>
                     <div class="swiper-slide"><img src="home/assets/img/clients/bdp(1).png" class="img-fluid" alt="">
                     </div>
