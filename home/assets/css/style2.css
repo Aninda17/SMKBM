@@ -64,3 +64,8 @@
 .row .berita a{
     text-decoration: none;
 }
+
+/*punya contact us*/
+#kontakdata .row ul{
+    list-style-type: none;
+}

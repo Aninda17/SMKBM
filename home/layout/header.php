@@ -39,7 +39,6 @@
                         <li><a class="nav-link scrollto " href="#">Ekstrakurikuler</a></li>  
                         <li><a class="nav-link scrollto " href="#">Kabar BM</a></li>
                         <li><a class="nav-link scrollto" href="#">PPDB</a></li>
-                        <li><a class="nav-link scrollto" href="#">Kritik & Saran</a></li>
                         <li><a class="nav-link" href="../smkbm/home/contact.php">Contact</a></li>
                     </ul>
                     <i class="bi bi-list mobile-nav-toggle"></i>
