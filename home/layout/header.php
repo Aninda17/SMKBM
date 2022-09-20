@@ -10,7 +10,7 @@
 
                 <nav id="navbar" class="navbar">
                     <ul>
-                        <li><a class="nav-link scrollto active" href="#">Beranda</a></li>
+                        <li><a class="nav-link scrollto active" href="../../smkbm">Beranda</a></li>
                             <ul>
                                 <li class="dropdown"><a href="#"><span>Profile</span> <i
                                             class="bi bi-chevron-right"></i></a>
