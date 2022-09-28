@@ -76,62 +76,60 @@
     <!-- ======= About Us Section ======= -->
     <section id="about">
         <div class="container" data-aos="fade-up">
-
             <header class="section-header">
                 <h3>TOPIK UTAMA</h3>
-                <!-- <p>dIBAGIAN BAWAH NANTI AKAN DI TAMPILKAN SEBUAH BERITA UTAMA ATAU POSTINGAN TERBARU YANG TELAH DIPUBLIKASIKAN OLEH ADMIN</p> -->
             </header>
-
-            <div class="row about-cols">
-                <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
-                    <div class="about-col">
-                        <div class="img">
-                            <img src="home/assets/img/about-mission.jpg" alt="" class="img-fluid">
+            <div class="slide-container swiper">
+                    <div class="slide-content">
+                        <div class="card-wrapper swiper-wrapper">
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <span class="overlay"></span>
+                                    <div class="card-image">
+                                        <img src="image/about-mission.jpg" alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">David Dell</h2>
+                                    <p class="description">The lorem text the section that contains header with having open functionality. Lorem dolor sit amet consectetur adipisicing elit.</p>
+                                    <button class="button">View More</button>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <span class="overlay"></span>
+                                    <div class="card-image">
+                                        <img src="image/about-plan.jpg" alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">David Dell</h2>
+                                    <p class="description">The lorem text the section that contains header with having open functionality. Lorem dolor sit amet consectetur adipisicing elit.</p>
+                                    <button class="button">View More</button>
+                                </div>
+                            </div>
+                            <div class="card swiper-slide">
+                                <div class="image-content">
+                                    <span class="overlay"></span>
+                                    <div class="card-image">
+                                        <img src="image/about-vision.jpg" alt="" class="card-img">
+                                    </div>
+                                </div>
+                                <div class="card-content">
+                                    <h2 class="name">David Dell</h2>
+                                    <p class="description">The lorem text the section that contains header with having open functionality. Lorem dolor sit amet consectetur adipisicing elit.</p>
+                                    <button class="button">View More</button>
+                                </div>
+                            </div>
                         </div>
-                        <h2 class="title"><a href="#">Arema FC mengunjungi SMK Budi Mu;ia</a></h2>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore
-                            magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                            aliquip ex ea commodo consequat.
-                        </p>
                     </div>
-                </div>
-                <!-- slider -->
-                
-                <!-- akhir slider -->
-                <!-- awal -->
-                <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
-                    <div class="about-col">
-                        <div class="img">
-                            <img src="home/assets/img/about-plan.jpg" alt="" class="img-fluid">
-                        </div>
-                        <h2 class="title"><a href="#">Our Plan</a></h2>
-                        <p>
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium,
-                            totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
-                            beatae vitae dicta sunt explicabo.
-                        </p>
-                    </div>
-                </div>
-                <!-- akhir -->
-                <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
-                    <div class="about-col">
-                        <div class="img">
-                            <img src="home/assets/img/about-vision.jpg" alt="" class="img-fluid">
-                        </div>
-                        <h2 class="title"><a href="#">Our Vision</a></h2>
-                        <p>
-                            Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores
-                            eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum
-                            quia dolor sit amet.
-                        </p>
-                    </div>
-                </div>
-
-            </div>
-
+                        <div class="swiper-button-next swiper-navBtn"></div>
+                        <div class="swiper-button-prev swiper-navBtn"></div>
+                        <div class="swiper-pagination"></div>
+            </div>            
         </div>
-    </section><!-- End About Us Section -->
+    </section>
+    <!-- End About Us Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services">
@@ -181,7 +179,7 @@
             <!-- End Prestasi -->
             <!-- Pengumuman -->
                 <div class="col-lg-4 box" data-aos="fade-up" data-aos-delay="300">
-                    <h4 class="title text-center"><a href="">PENGUMUMAN</a></h4>
+                    <h4 class="title ml-5"><a href="">PENGUMUMAN</a></h4>
                     <ul class="mr-5 berita">
                         <li class="h6 mb-0"><a href="">Arema FC mengunjungi SMK Budi Mulia Pakisaji, malang jawa timur</a></li>
                         <span>09 Agustus 2022</span>

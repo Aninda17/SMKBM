@@ -32,6 +32,7 @@
     <link href="home/assets/css/style.css" rel="stylesheet">
     <link href="home/assets/css/style2.css" rel="stylesheet">
     <link rel="stylesheet" href="home/assets/css/bootstrap.css">
+    <link href="home/assets/css/styl.css" rel="stylesheet">
 
     <!-- =======================================================
   * Template Name: BizPage - v5.9.1
@@ -80,6 +81,7 @@
     <!-- Template Main JS File -->
     <script src="home/assets/js/main.js"></script>
     <script src="home/assets/js/bootstrap.js"></script>
+    <script src="home/assets/js/script.js"></script>
 
 
 </body>
