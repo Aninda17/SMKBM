@@ -1,6 +1,6 @@
 <div class="container">
 
-    <div class="row justify-content-center">
+    <div class="row">
         <div class="col-3 mb-3 mr-2 ml-2  konten-baru ke1">
             <div class="row">
                 <div class="col-lg">
